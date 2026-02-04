@@ -1,7 +1,18 @@
-# My-First-Repo
-Just Demo Only
-<<<<<<< HEAD
-First change
-=======
-Aothor-Raman Sharma
->>>>>>> 4ddca57a3377c0167839511c66373ffd3a84fc44
+# My First Repo 🚀
+
+This is a demo repository created for learning and practicing Git & GitHub basics.
+
+## 📌 Purpose
+- Understanding Git commands (init, add, commit, pull, push)
+- Learning how GitHub repositories work
+- Practicing version control workflow
+
+## 🛠️ Technologies Used
+- Git
+- GitHub
+
+## 📂 Project Status
+This repository is for demo and learning purposes only.
+
+## 👤 Author
+Raman Sharma
